@@ -1,11 +1,14 @@
 ---
-date: '2022-02-01'
-title: 'Learn Beginner Golang'
-github: 'https://github.com/chandrikadeb7/learning-easy-golang'
+date: '5'
+title: 'Movie Recommendation'
+github: 'https://github.com/seabnavin19/ML-Movies_Recommendation'
 external: ''
 tech:
-  - Go
-  - Rest API
+  - Python
+  - ML/AI/Recommendation
+  - Flask
+  - Docker
+
 company: ''
 showInProjects: true
 ---

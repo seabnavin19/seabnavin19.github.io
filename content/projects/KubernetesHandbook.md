@@ -1,5 +1,5 @@
 ---
-date: '2021-08-02'
+date: '5'
 title: 'Kubernetes Handbook'
 github: 'https://github.com/chandrikadeb7/kubernetes-handbook'
 external: 'https://amdocs-1.gitbook.io/kubernetes-handbook/'

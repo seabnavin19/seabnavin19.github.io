@@ -1,5 +1,5 @@
 ---
-date: '2021-06-21'
+date: '6'
 title: 'IntelliJ Idea Tips & Tricks'
 github: 'https://github.com/chandrikadeb7/IntelliJ-Idea-Tips-n-Tricks'
 external: 'https://chandrikadeb7.github.io/IntelliJ-Idea-Tips-n-Tricks/'
