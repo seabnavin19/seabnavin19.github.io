@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://seabnavin19.github.io/sitemap-index.xml
+Host: https://seabnavin19.github.io
