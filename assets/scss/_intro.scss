@@ -6,9 +6,9 @@
     margin-top: 0;
     margin-bottom: 30px;
     @include breakpoint('small') {
-      width: 80%;
-      font-size: 88px;
-      line-height: 94px;
+      width: 90%;
+      font-size: 38px;
+      line-height: 48px;
       margin-bottom: 50px;
     }
     strong {
@@ -27,8 +27,8 @@
     line-height: 26px;
     @include breakpoint('small') {
       width: 80%;
-      font-size: 22px;
-      line-height: 32px;
+      font-size: 18px;
+      line-height: 28px;
     }
   }
   .read-more {

@@ -1,8 +1,8 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "hugo_blogs"
+
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Seab Navin"
 [pagination]
    pagerSize = 3
 pygmentsCodeFences = true
@@ -53,17 +53,12 @@ pygmentsUseClasses = true
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "Blog"
-    identifier = "blog"
+    name = "Articles"
+    identifier = "articles"
     weight = 2
-    url = "/posts/"
+    url = "/articles/"
   [[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 3
-    url = "/About/"
-  [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    weight = 4
-    url = "/tags/"
+    name = "Projects"
+    identifier = "project"
+    weight = 2
+    url = "/projects/"
