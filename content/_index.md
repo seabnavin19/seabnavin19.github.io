@@ -3,7 +3,7 @@ title: Let's Share Something
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hi , I am navin a software engineer and AI engineer , I love to learn about AI and machine learning and currently I'm working as a software engineer in a japanese company 
+Hi , I am navin Iam a software engineer and AI engineer , I love to learn about AI and machine learning and currently I'm working as a software engineer in a japanese company 
 
 Previously , I have worked as a data scientist at a bank in Cambodia , which I have the opportunity to explore various tool in AI and Data science
 

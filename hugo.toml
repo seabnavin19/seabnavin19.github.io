@@ -62,3 +62,8 @@ pygmentsUseClasses = true
     identifier = "project"
     weight = 2
     url = "/projects/"
+
+[deployment]
+  [[deployment.targets]]
+    name = 'production'
+    url = 'gs://seabnavin.com'
