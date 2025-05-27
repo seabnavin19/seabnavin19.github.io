@@ -17,7 +17,7 @@ I am a software engineering student who is very interested in and passionate abo
 When GPT3 came out in 2021, I was excited and wanted to try it and implement it in my application because I was also familiar with language models like Bert from Google, when I saw the video marketing of GPT3 I was just wow.
 
 After seeing a lot of demo videos and applications from OpenAI, I decided to send an email to OpenAI for beta testing of GPT3 because using a powerful model like this is not as easy as nowadays.
-![email_openai](/posts/resources/email_to_openai.webp)
+![email_openai](/resources/email_to_openai.webp)
 But after a few years of GPT3 release, there are some changes that I have noticed
 
 ## The cost of Implementing a Generative model in software applications rapidly decreases
