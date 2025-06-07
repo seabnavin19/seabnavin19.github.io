@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Workflow Series(Part2.2) : Data Processing with Prefect"
 date: 2024-10-12
-description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message and any notes that he himself had made, and dropped them into the memory hole to be devoured by the flames."
+description: "Machine learning is not just about building model with good accuracy but with need to think from end to end perspective , how we keep track the experiment , monitoring and and deploy it into production that can be use by end users. "
 
 tags:
    - machine learning 
