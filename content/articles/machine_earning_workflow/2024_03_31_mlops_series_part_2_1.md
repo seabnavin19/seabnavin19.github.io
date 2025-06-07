@@ -9,7 +9,7 @@ tags:
    - Mlops
 ---
 
-In [Part 1](/articles/machine-learning-work-flow/2024_03_31_mloseries_part_2_1/), We already covered the overview and architecture of the project. In this article, I will go with the next step and talk about data fetching, cleaning, and preprocessing which is a very important step in building a machine learning model.
+In [Part 1](/articles/machine_earning_workflow/2024_03_16_mlops_series_part_1/), We already covered the overview and architecture of the project. In this article, I will go with the next step and talk about data fetching, cleaning, and preprocessing which is a very important step in building a machine learning model.
 
 When working with a machine learning model, the data preprocessing step is crucial because better data leads to building a better model. Moreover, data scientists spend around 80% of their time working on data cleaning and preprocessing. Most of the time when we build a machine learning system, we go through a lot of data cleaning and preprocessing steps, leading to multiple problems:
 

@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Image classification application- part2 ( Model Building)"
+title: "Deep Learning Image classification application- part2 ( Model Building) "
 date: 2022-07-30
 description: "Continue your journey in building a deep learning image classification app! In Part 2, we dive into model development—covering dataset preparation, CNN architecture design, training strategies, and performance evaluation. "
 
